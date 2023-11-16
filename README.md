@@ -5,7 +5,7 @@ Hi there 👋, ![](https://user-images.githubusercontent.com/18350557/176309783-
 Frontend Developer👨‍💻🚀
 ------------------------------
 
-An entry-level frontend developer who is passionate about learning creating clean user interfaces and web applications using HTML, CSS and JavaScript and other frameworks. <br> Creating magic with codes✨.
+An entry-level frontend developer who is passionate about learning and creating clean user interfaces and web applications using HTML, CSS, JavaScript and other frameworks. <br> Creating magic with codes✨.
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [akpakoremeka03@gmail.com](mailto:akpakoremeka03@gmail.com)
