@@ -2,7 +2,7 @@
 Hi there 👋, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emeka.
 ================================================================================================================================
 
-Frontend Developer
+Frontend Developer👨‍💻🚀
 ------------------------------
 
 An entry-level frontend developer who is passionate about learning creating clean user interfaces and web applications using HTML, CSS and JavaScript and other frameworks. <br> Creating magic with codes✨.
@@ -10,7 +10,7 @@ An entry-level frontend developer who is passionate about learning creating clea
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [akpakoremeka03@gmail.com](mailto:akpakoremeka03@gmail.com)
 *   🧠  I'm learning JavaScript
-*   🤝  I'm open to collaborating on projects to improve my skills
+*   🤝  I'm open to collaborating on projects to improve my skills🚀
 <h1> Skills 
 <br>
 <br>
