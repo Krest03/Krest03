@@ -10,7 +10,7 @@ An entry-level frontend developer who is passionate about learning creating clea
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [akpakoremeka03@gmail.com](mailto:akpakoremeka03@gmail.com)
 *   🧠  I'm learning JavaScript
-*   🤝  I'm open to collaborating on projects to improve my skills🚀
+*   🤝  I'm open to collaborating on projects to improve my skills
 <h1> Skills 
 <br>
 <br>
